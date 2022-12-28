@@ -13,3 +13,7 @@ These are optional steps but fetch more brownie points if done.
 - Deploy additional services, like Redis or ElasticSearch.
 - Add basic test cases in the CD pipeline.
 - Container image vulnerability scanning in the CD pipeline. 
+
+## Outcome
+1. A git repo with the necessary artifacts.
+2. A README explaining things to the developer involved in the project.
