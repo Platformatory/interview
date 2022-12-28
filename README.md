@@ -7,9 +7,9 @@ Take a web application in a language of your choice, preferably Java,Python, Nod
 
 ## Optional steps
 These are optional steps but fetch more brownie points if done.
-Terraform script to spin up the Kubernetes cluster.
-Use of Helm charts to deploy the application.
-Demonstrate Horizontal pod Autoscaler.
-Deploy additional services, like Redis or ElasticSearch.
-Add basic test cases in the CD pipeline.
-Container image vulnerability scanning in the CD pipeline. 
+- Terraform script to spin up the Kubernetes cluster.
+- Use of Helm charts to deploy the application.
+- Demonstrate Horizontal pod Autoscaler.
+- Deploy additional services, like Redis or ElasticSearch.
+- Add basic test cases in the CD pipeline.
+- Container image vulnerability scanning in the CD pipeline. 
